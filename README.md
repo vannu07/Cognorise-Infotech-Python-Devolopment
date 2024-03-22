@@ -4,4 +4,6 @@ Internship projects of Pyhton Development ;
 2. CALCULATOR APP
 3. ROCK, PAPER, SCISSORS GAME
 4. COUNTDOWN TIMER
+5. PASSWORD GENERATOR
+
 
